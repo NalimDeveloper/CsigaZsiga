@@ -1,1 +1,6 @@
 C:\Users\Nalim\Documents\GitHub\CsigaZsiga\CsigaZsiga\bin\Debug\CsigaZsiga.exe.config
+C:\Users\Nalim\Documents\GitHub\CsigaZsiga\CsigaZsiga\bin\Debug\CsigaZsiga.exe
+C:\Users\Nalim\Documents\GitHub\CsigaZsiga\CsigaZsiga\bin\Debug\CsigaZsiga.pdb
+C:\Users\Nalim\Documents\GitHub\CsigaZsiga\CsigaZsiga\obj\Debug\CsigaZsiga.csprojResolveAssemblyReference.cache
+C:\Users\Nalim\Documents\GitHub\CsigaZsiga\CsigaZsiga\obj\Debug\CsigaZsiga.exe
+C:\Users\Nalim\Documents\GitHub\CsigaZsiga\CsigaZsiga\obj\Debug\CsigaZsiga.pdb
