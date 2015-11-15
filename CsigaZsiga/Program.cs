@@ -18,15 +18,14 @@ namespace CsigaZsiga
             //A játék inicializálása
             Alma a = new Alma();
             Testresz t = new Testresz();
-
+            Rajzol();
             //A játék motorja
             do
             {
-                Console.Clear();
-                Rajzol();
+             
                 a.Mozog();
                 t.Mozog();
-                Thread.Sleep(10);
+                Thread.Sleep(50);
             } while (!JatekVege(a, t));
 
         }

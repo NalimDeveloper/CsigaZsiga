@@ -45,6 +45,9 @@ namespace CsigaZsiga
 
         public void ToString()
         {
+
+            Console.SetCursorPosition(X-1, Y);
+            Console.Write("\0");
             Console.SetCursorPosition(X, Y);
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine('@');
